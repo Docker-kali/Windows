@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "docker pull ghcr.io/dockur/windows:2.09@sha256:7003beb3048e267c63b171178dc27efca85e9acd0b3a7e00118d49673463e167",
   "hostRequirements": {
     "cpus": 4
   },
