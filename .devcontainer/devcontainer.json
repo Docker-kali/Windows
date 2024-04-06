@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/windows/server",
+  "image": "alpine",
   "hostRequirements": {
     "cpus": 4
   },
